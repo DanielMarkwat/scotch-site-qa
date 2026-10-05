@@ -1,2 +1,2 @@
 # scotch-site-qa
-Automated daily QA and sanity checks for the Scotch &amp; Soda South Africa e-commerce site.
+An automated E2E QA and monitoring system for e-commerce websites. Using real browser interactions to continuously test critical customer journeys, navigation, product discovery, cart and checkout functionality, content, images, and site behaviour. Combines functional testing, visual validation, performance monitoring, network performance monitoring, error detection, and exploratory testing to identify regressions and unexpected issues before they reach customers. Pair with automated AI/mailing system to schedule an emailed report daily.
